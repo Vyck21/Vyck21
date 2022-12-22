@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vyck21
 - 👀 I’m interested in Sound design & music.
 - 🌱 I’m currently learning coding, and audio implementation
-- 💞️ I’m looking to collaborate on video game projects
+- 💞️ I’m looking to collaborate on videogame projects
 - 📫 How to reach me vycksounds@gmail.com
 
 <!---
